@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				chatbot: {
+					primary: '#6366f1',
+					secondary: '#a5b4fc',
+					light: '#e0e7ff',
+					dark: '#3730a3',
+					user: '#e0e7ff',
+					bot: '#ffffff'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
